@@ -1,4 +1,4 @@
-# cdr-data-generator
+# Telecom Call Data/Detail Record Generator ( CDR Generator )
 Utility to generate Telecom Call Detail/Data Records Generator
 
 #### To Build 
