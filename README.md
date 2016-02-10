@@ -11,6 +11,12 @@ Clone the repo. and execute following command
 
 Run as Java Application
 
+#### Data Format
+
+ID, CALLING_NUM, CALLED NUMBER, START TIME, END TIME, CALL TYPE, CHARGE, CALL RESULT
+
+
+
 #### Sample Data
 
 ```7693f957-179f-4d01-84e7-85faf6d7de13|9917618284|5084342972|2016-02-19T18:57:31.082+05:30|2016-02-19T18:57:31.082+05:30|SMS|0.71523774|ANSWERED
